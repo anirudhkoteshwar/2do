@@ -8,10 +8,11 @@
 ### Usage
 Usage is very simple
 Run 2do and do any of these:
-> add *Task_to_be_added*
-> remove *Task_IDs_separated_by_spaces* 
-> clear 
-> done *ID_of_task_done*
-> quit 
-
+```
+add *Task_to_be_added*
+remove *Task_IDs_separated_by_spaces* 
+clear 
+done *ID_of_task_done*
+quit 
+```
 #### PS this is my first python project ^^
