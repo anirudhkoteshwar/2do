@@ -2,7 +2,7 @@
 ## A simple CLI todo list utility written in python
 * To use 2do, make sure to edit the 2do.sh file and change the path to where you have stored the 2do.py file.
 * Move the file to your path and give it the required permissions.
-* Needs tabulate module : pip install tabulate
+* Needs tabulate module (pip install tabulate)
 
 ### Usage
 Usage is very simple
